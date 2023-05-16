@@ -3,3 +3,19 @@
     line-height:80px;
     }
   }
+
+  .bg-image{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+.nav-link{
+    color: rgb(215, 225, 74);
+}
+.dropdown-item {
+    color: rgb(215, 225, 74);
+}
+  .dropdown-menu {
+    background: transparent;
+  }
+  
