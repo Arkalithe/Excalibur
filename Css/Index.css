@@ -4,11 +4,12 @@
     }
   }
 
-  .bg-image{
+  .bg-image {
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
-    background-image: url("Assests/Images/TavernBG.jpg")
+    background-image: url("/Assests/Images/TavernBG.jpg");
+    height: 100vh;
     
   }
 .nav-link{
