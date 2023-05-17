@@ -5,11 +5,11 @@
   }
 
   .bg-image{
+    background-image: url(/Assests/Images/TavernBG.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
-    height: 100vh;
-    background-image: url(https://st5.depositphotos.com/7824466/64727/i/600/depositphotos_647279876-stock-photo-loft-style-decorated-restaurant-bar.jpg)
+    
   }
 .nav-link{
     color: rgb(215, 225, 74);
